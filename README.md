@@ -1,1 +1,3 @@
-          ![sh1mmer_light_banner](https://github.com/user-attachments/assets/19d58fe6-699b-4784-873e-034cb8730d10)
+This is a repository about the RMA Shim exploit called SH1mmer
+What is SH1mmer: SH1mmer (Shady Hacking 1nstrument Makes Machine Enrollment Retreat) is an RMA Shim exploit used to un-enroll school chromebooks.
+How do I use SH1mmer? : 
