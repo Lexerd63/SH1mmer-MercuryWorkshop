@@ -65,4 +65,61 @@ Now look up Sh1mmer raw file builder and find one, paste your RMA shim, download
 
 
 
-Download the chrome extensions chrome recovery utility then open it and use local image. Download the new file you get from it
+Download the chrome extensions chrome recovery utility then open it and use local image. Download the new file you get from it and insert it into your 6 GB or higher usb.
+
+
+
+
+
+
+Now, back on your school chromebook click ESC-refresh-power (or the side button for newer chromebooks).
+
+
+
+
+
+This will open a chrome recovery utilty (used for rebooting computer after a brick from something like a virus), press CTRL-D (which is the keyboard shortcut for developer mode).
+
+
+
+
+
+
+It will have two screens (screenshots in the image/help folder), click enter to enter developer mode (which is most definitly blocked, if it isnt then dont even bother doing this process)
+
+
+
+
+
+
+It will probaly say "Developer mode is blocked" or "Returning to safe mode", for most versions you will want to click the same buttons to enter recovery mode and stick your usb in while the screen is black. 
+
+
+
+
+
+This should bypass google's verified boot and open the beautiful world shim.
+
+
+
+There are many payloads including remove chrome extensions, de-enroll computer, etc. Mess around with the payloads and pick one.
+
+
+
+
+The one that this repo is based on is de-enroll computer, after clicking de-enroll you are going to want to set up a new account with a home or personal email.
+
+
+
+
+
+Any questions or problems please contact me at drexelking@icloud.com, Thank you
+
+
+
+
+Credits:
+MercuryWorkshop: for making this wonderful exploit
+Github: For making this amazing sharing sharing platform
+Programiz: For helping me learn to code (Not adverstising)
+Many github repos: For helping me and contributing along the way
