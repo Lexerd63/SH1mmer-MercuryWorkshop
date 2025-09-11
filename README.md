@@ -120,6 +120,22 @@ Any questions or problems please contact me at drexelking@icloud.com, Thank you
 
 Credits:
 MercuryWorkshop: for making this wonderful exploit
+
+
+
+
+
 Github: For making this amazing sharing sharing platform
+
+
+
+
+
+
 Programiz: For helping me learn to code (Not adverstising)
+
+
+
+
+
 Many github repos: For helping me and contributing along the way
