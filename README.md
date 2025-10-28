@@ -56,5 +56,13 @@ After pressing that, set up a new account with a personal email
 
 
 Don't do this at school, you will get in MAJOR trouble.
+
+
 Do this at home in the Summmer or something
+
+
 If you want to re-enroll your computer do the process again and re-enroll
+
+
+Any questions email drexelisking@gmail.com
+
